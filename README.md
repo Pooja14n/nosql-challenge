@@ -50,7 +50,7 @@ Unless otherwise stated, for each question:
     ![2](https://github.com/Pooja14n/nosql-challenge/assets/144713762/da50957b-b3ee-436c-9aa3-e88a1f1fdfb3)
 
 # References
-Referred to various class activity exercises, got support from Assistant Instructor, and websites for: Documentation for Documentation for Python, Pandas, and MongoDB.
+Referred to various class activity exercises, got support from Assistant Instructor, and websites for: Documentation for Python, Pandas, and MongoDB.
 
 # Files submitted including this README File
 1. Resources Folder -> establishments.json (contains the data provided for the analysis)
